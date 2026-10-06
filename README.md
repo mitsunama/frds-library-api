@@ -1,8 +1,3 @@
-# frds-library-api
-Responsi Modul 1 Praktikum Pemrograman Bergerak (PPB) 2026
-
-Tersedia juga di sini: https://frds-library-api.vercel.app/
-
 ## Description
 FRDS (Fast, Responsive, Database System) Library API is a project that is created for the purpose of completing the 1st module of Praktikum Perangkat Bergerak (Mobile Device) of 2026.
 
