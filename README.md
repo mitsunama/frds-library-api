@@ -1,6 +1,8 @@
 ## Description
 FRDS (Fast, Responsive, Database System) Library API is a project that is created for the purpose of completing the 1st module of Praktikum Perangkat Bergerak (Mobile Device) of 2026.
 
+Also available here: https://frds-library-api.vercel.app/
+
 ## Data structure schema
 <img width="812" height="577" alt="frds library api schema (6)" src="https://github.com/user-attachments/assets/598dcf27-5aac-4a0c-bd32-529296f8c353" />
 
